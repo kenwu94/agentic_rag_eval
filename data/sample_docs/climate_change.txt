@@ -1,0 +1,21 @@
+Climate Change: Causes, Effects, and Solutions
+
+Climate change refers to long-term shifts in global temperatures and weather patterns. While natural factors have always influenced climate, since the mid-20th century human activities have become the dominant driver of climate change, primarily through the burning of fossil fuels.
+
+Greenhouse Effect and Causes
+The greenhouse effect is the natural process by which certain gases in the atmosphere trap heat from the sun. Key greenhouse gases include carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and water vapor. Human activities dramatically increase these concentrations. Burning coal, oil, and natural gas for energy releases CO2 stored for millions of years. Deforestation reduces the number of trees that absorb CO2. Agriculture, particularly livestock farming and rice cultivation, produces methane. Industrial processes and fertilizer use release nitrous oxide. Since pre-industrial times, atmospheric CO2 has risen from 280 ppm to over 420 ppm.
+
+Observable Effects
+Global average temperatures have risen approximately 1.1 degrees Celsius above pre-industrial levels. Sea levels are rising due to thermal expansion of warming oceans and melting of glaciers and ice sheets. Arctic sea ice is declining rapidly, and the Greenland ice sheet is losing mass. Extreme weather events are becoming more frequent and intense, including heatwaves, heavy rainfall, droughts, and powerful hurricanes. Ocean acidification occurs as oceans absorb CO2, threatening coral reefs and marine ecosystems. Biodiversity loss is accelerating as species struggle to adapt to rapidly changing conditions.
+
+Regional Impacts
+Different regions face distinct challenges. Low-lying coastal nations and island states face existential threats from sea level rise. Sub-Saharan Africa faces increased drought and food insecurity. The Arctic is warming four times faster than the global average, threatening indigenous communities and permafrost stability. Permafrost thaw releases additional methane, creating dangerous feedback loops. Tropical regions face increased disease vectors as mosquito habitats expand. Mountain glaciers that supply freshwater to millions are retreating.
+
+Paris Agreement and International Response
+The Paris Agreement, adopted in 2015, is a landmark international treaty on climate change. Nearly 200 countries committed to limiting global warming to well below 2 degrees Celsius above pre-industrial levels, with efforts to limit it to 1.5 degrees. Countries submit Nationally Determined Contributions (NDCs) outlining their emissions reduction plans. The agreement requires developed nations to provide financial support to developing countries for adaptation and mitigation. Despite commitments, current pledges are insufficient to meet the 1.5-degree target.
+
+Mitigation Strategies
+Mitigation involves reducing greenhouse gas emissions. Transitioning to renewable energy sources including solar, wind, hydroelectric, and geothermal power is essential. Improving energy efficiency in buildings, transportation, and industry reduces demand. Electrifying transportation through electric vehicles cuts emissions from the largest emitting sector in many countries. Sustainable agriculture practices and dietary shifts toward plant-based foods reduce agricultural emissions. Carbon capture and storage (CCS) technologies remove CO2 directly from the atmosphere or at emission sources. Protecting and restoring forests acts as a carbon sink.
+
+Adaptation Strategies
+Adaptation involves adjusting to current and future climate impacts. Building seawalls and restoring mangroves protect coastal communities. Developing drought-resistant crops ensures food security. Improving early warning systems for extreme weather events saves lives. Redesigning cities to reduce urban heat islands improves resilience. Water management strategies address changing precipitation patterns. Climate-resilient infrastructure withstands extreme events.

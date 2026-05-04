@@ -1,0 +1,24 @@
+Artificial Intelligence and Machine Learning
+
+Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. Machine learning (ML) is a subset of AI that enables systems to learn from data without being explicitly programmed for each task.
+
+Supervised Learning
+In supervised learning, models are trained on labeled datasets where both inputs and desired outputs are provided. The algorithm learns a mapping function from inputs to outputs. Common examples include classification (predicting categories) and regression (predicting continuous values). Popular supervised algorithms include linear regression, decision trees, support vector machines, and neural networks. A key challenge is overfitting, where the model memorizes training data rather than generalizing to new examples.
+
+Unsupervised Learning
+Unsupervised learning involves finding patterns in unlabeled data. The algorithm discovers hidden structure without guidance from predefined outputs. Clustering algorithms like k-means group similar data points together. Dimensionality reduction techniques such as principal component analysis (PCA) compress data while preserving structure. Autoencoders learn compressed representations of data. Unsupervised learning is valuable when labeled data is scarce or expensive to obtain.
+
+Reinforcement Learning
+Reinforcement learning trains agents to make sequential decisions by rewarding desired behaviors and penalizing undesired ones. An agent observes its environment, takes actions, and receives rewards or penalties. Over time, it learns a policy that maximizes cumulative reward. Deep reinforcement learning combined neural networks with this paradigm, achieving superhuman performance in games like Chess and Go.
+
+Neural Networks and Deep Learning
+Neural networks are computing systems inspired by biological neurons in the brain. They consist of layers of interconnected nodes that process information. Deep learning uses neural networks with many layers (deep architectures) to learn hierarchical representations of data. Convolutional neural networks (CNNs) excel at image recognition by detecting spatial patterns. Recurrent neural networks (RNNs) process sequential data like text and time series. Long short-term memory (LSTM) networks address the vanishing gradient problem in RNNs.
+
+Transformers and Large Language Models
+The transformer architecture, introduced in the paper "Attention Is All You Need" (2017), revolutionized natural language processing. Transformers use self-attention mechanisms to weigh the importance of different parts of the input when making predictions. BERT (Bidirectional Encoder Representations from Transformers) enabled powerful text understanding. GPT (Generative Pretrained Transformer) models generate coherent text by predicting the next token. Large language models (LLMs) are trained on massive text corpora with billions of parameters, enabling them to perform diverse tasks including translation, summarization, question answering, and code generation.
+
+Retrieval-Augmented Generation
+Retrieval-Augmented Generation (RAG) combines language models with external knowledge retrieval. When answering a question, the system first retrieves relevant documents from a corpus, then uses those documents as context for the language model to generate a grounded answer. This approach reduces hallucination, keeps knowledge up to date without retraining, and improves factual accuracy. RAG systems require quality document chunking, semantic embeddings, efficient vector search, and effective context integration.
+
+Evaluation Metrics
+Machine learning models are evaluated using various metrics. For classification: accuracy, precision, recall, F1-score, and AUC-ROC. For regression: mean squared error (MSE), mean absolute error (MAE), and R-squared. For language models: perplexity, BLEU score for translation, ROUGE for summarization, and human evaluation. Retrieval systems use Precision@k, Recall@k, Mean Reciprocal Rank (MRR), and Normalized Discounted Cumulative Gain (NDCG).
